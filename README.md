@@ -294,3 +294,7 @@ Efface les containers qui ne tourne pas
 
 Efface les images (que celles qui ne sont pas utilisé)
 `docker rmi $(docker images -q)`
+
+
+
+![](http://3.bp.blogspot.com/-qJrED1Dk890/Ul5rrklcKvI/AAAAAAAAtsI/w6LU6kgXMAw/s1600/funny-cats-gifs-073-007.gif)
