@@ -218,7 +218,7 @@ Pour créer l'image
 
 Pour la tester
 
-`docker run --name appweb my-web-app:v1`
+`docker run -p 80:80 --name appweb my-web-app:v1`
 
 (pourquoi pas de -d pour voir si cela marche comme il faut)
 
