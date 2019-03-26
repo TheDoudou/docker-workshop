@@ -112,7 +112,7 @@ Pour se rendre sur le process du container.
 
 Pour créer un nouveau shell dans le container
 
-`docker run -it ID/name bash` (ou systemd ou autre shell / commande que vous voulez faire)
+`docker exec -it ID/name bash` (ou systemd ou autre shell / commande que vous voulez faire)
 
 
 
