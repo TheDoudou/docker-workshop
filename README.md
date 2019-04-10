@@ -14,10 +14,13 @@ Je peux voir le statut de chacun donc pas de glandouille possible ;)
 
 Installer docker
 `curl -fsSL https://get.docker.com | sh`
+
 Lancer docker
 `service docker start`
+
 Voir si il tourne
 `service docker status`
+
 Tester si cela marche
 `docker run hello-world`
 
